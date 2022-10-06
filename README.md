@@ -29,8 +29,8 @@ Sou formada em <b>Direito</b> pela Uninove (2013) e migrei para a tecnologia por
 ## GitHub Estatísticas
 <div align="center">
   <a href="https://github.com/                alinegfchagas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Melissacopetti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacopetti&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinegfchagas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinegfchagas&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
   ## Linguagens e Ferramentas:
