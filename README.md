@@ -23,7 +23,7 @@ class Skills extends Developer {
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
-Sou formada em <b>Direito</b> pela Uninove (2013) e migrei para a tecnologia por meio do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, além do conhecimento de Front end, me dedico a aprender as linguagens e estruturas do Back end.
+Sou formada em <b>Direito</b> pela Uninove (2013) e migrei para a tecnologia por meio do Bootcamp de desenvolvimento web full-stack da <b>Labenu</b>.  Na área de programação, além do conhecimento de Front end, aprendi linguagens e estruturas do Back end. Atualmente me dedico a aprofundar conhecimentos em ServiceNow
 <br></div></p>
 
 ## GitHub Estatísticas
